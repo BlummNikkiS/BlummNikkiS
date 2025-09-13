@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Got u 👋
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJoc2VoNmhpbXd1OTRyZXk5OHVxaWI4MjhjZDVpbmR2Nml1MDZvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3OxYzepMa1mytA7YSl/giphy.gif?raw=true" width="1000"/>
 <!--
 **BlummNikkiS/BlummNikkiS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
